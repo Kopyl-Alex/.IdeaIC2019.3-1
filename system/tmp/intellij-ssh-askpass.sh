@@ -1,0 +1,2 @@
+#!/bin/sh
+"C:/Users/IINO/AppData/Local/JetBrains/IntelliJ IDEA Community Edition 2019.3/jbr/bin/java" -cp "C:/Users/IINO/AppData/Local/JetBrains/IntelliJ IDEA Community Edition 2019.3/plugins/git4idea/lib/git4idea-rt.jar;C:/Users/IINO/AppData/Local/JetBrains/IntelliJ IDEA Community Edition 2019.3/lib/xmlrpc-2.0.1.jar;C:/Users/IINO/AppData/Local/JetBrains/IntelliJ IDEA Community Edition 2019.3/lib/commons-codec-1.13.jar;C:/Users/IINO/AppData/Local/JetBrains/IntelliJ IDEA Community Edition 2019.3/lib/util.jar" org.jetbrains.git4idea.nativessh.GitNativeSshAskPassApp "$@"

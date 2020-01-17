@@ -1,0 +1,15 @@
+<conversion>
+  <applied-converters>
+    <converter id="kotlin-non-jvm-source-roots" />
+    <converter id="junit-to-android-junit-configurations" />
+    <converter id="android-sdk-library" />
+    <converter id="android-module-to-java-module" />
+    <converter id="android-proguard-options" />
+  </applied-converters>
+  <project-files>
+    <file path="D:\Study\Android_Java\Java\Java Projects\ZOO\.idea\misc.xml" timestamp="1576867011855" />
+    <file path="D:\Study\Android_Java\Java\Java Projects\ZOO\ZOO.iml" timestamp="1576867011793" />
+    <file path="D:\Study\Android_Java\Java\Java Projects\ZOO\.idea\workspace.xml" timestamp="1577435056838" />
+    <file path="D:\Study\Android_Java\Java\Java Projects\ZOO\.idea\modules.xml" timestamp="1576867011886" />
+  </project-files>
+</conversion>

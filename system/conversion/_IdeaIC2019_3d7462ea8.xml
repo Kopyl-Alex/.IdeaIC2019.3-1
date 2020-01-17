@@ -1,0 +1,18 @@
+<conversion>
+  <applied-converters>
+    <converter id="kotlin-non-jvm-source-roots" />
+    <converter id="junit-to-android-junit-configurations" />
+    <converter id="android-sdk-library" />
+    <converter id="android-module-to-java-module" />
+    <converter id="android-proguard-options" />
+  </applied-converters>
+  <project-files>
+    <file path="C:\Users\IINO\.IdeaIC2019.3\.idea\workspace.xml" timestamp="1579248620949" />
+    <file path="C:\Users\IINO\.IdeaIC2019.3\.idea\encodings.xml" timestamp="1579082021287" />
+    <file path="C:\Users\IINO\.IdeaIC2019.3\.idea\uiDesigner.xml" timestamp="1579085279830" />
+    <file path="C:\Users\IINO\.IdeaIC2019.3\.IdeaIC2019.3.iml" timestamp="1579080152683" />
+    <file path="C:\Users\IINO\.IdeaIC2019.3\.idea\misc.xml" timestamp="1579082021225" />
+    <file path="C:\Users\IINO\.IdeaIC2019.3\.idea\modules.xml" timestamp="1579082021303" />
+    <file path="C:\Users\IINO\.IdeaIC2019.3\.idea\project-template.xml" timestamp="1579080152667" />
+  </project-files>
+</conversion>

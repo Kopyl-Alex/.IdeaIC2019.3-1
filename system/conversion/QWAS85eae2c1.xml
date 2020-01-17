@@ -1,0 +1,15 @@
+<conversion>
+  <applied-converters>
+    <converter id="kotlin-non-jvm-source-roots" />
+    <converter id="junit-to-android-junit-configurations" />
+    <converter id="android-sdk-library" />
+    <converter id="android-module-to-java-module" />
+    <converter id="android-proguard-options" />
+  </applied-converters>
+  <project-files>
+    <file path="C:\Users\IINO\IdeaProjects\QWAS\.idea\misc.xml" timestamp="1575881503036" />
+    <file path="C:\Users\IINO\IdeaProjects\QWAS\QWAS.iml" timestamp="1575881503036" />
+    <file path="C:\Users\IINO\IdeaProjects\QWAS\.idea\workspace.xml" timestamp="1575881921782" />
+    <file path="C:\Users\IINO\IdeaProjects\QWAS\.idea\modules.xml" timestamp="1575881503052" />
+  </project-files>
+</conversion>
